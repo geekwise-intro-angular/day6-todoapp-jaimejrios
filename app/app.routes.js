@@ -5,7 +5,7 @@ angular.module('app')
             .state('home',{
                 url:'/home',
                 templateUrl:'home/home.html',
-                controller:"HomeCtrl"
+                 controller:"HomeCtrl"
             })
             .state('about',{
                 url:'/about',
